@@ -1,0 +1,3773 @@
+Random forest for Wines
+2
+
+branch node
+fixed acidity
+9.6193905
+branch node
+total sulfur
+267.49146
+branch node
+residual sugar
+1.9857292
+branch node
+chlorides
+0.026982415
+branch node
+total sulfur
+93.16381
+branch node
+fixed acidity
+6.0064635
+branch node
+citric acid
+0.39917764
+branch node
+citric acid
+0.3193421
+branch node
+volatile acidity
+0.33530915
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.33530915
+branch node
+fixed acidity
+7.8129272
+branch node
+volatile acidity
+0.2502061
+branch node
+total sulfur
+35.054604
+decision node
+bad quality
+branch node
+alcohol
+11.028949
+decision node
+bad quality
+decision node
+good quality
+branch node
+citric acid
+0.3193421
+decision node
+good quality
+decision node
+bad quality
+branch node
+alcohol
+11.028949
+decision node
+bad quality
+branch node
+citric acid
+0.3193421
+decision node
+bad quality
+decision node
+good quality
+branch node
+fixed acidity
+7.8129272
+branch node
+citric acid
+0.23950657
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.16510305
+branch node
+citric acid
+0.3193421
+decision node
+good quality
+decision node
+bad quality
+branch node
+sulphates
+0.5156121
+branch node
+citric acid
+0.39917764
+branch node
+sulphates
+0.38280606
+branch node
+fixed acidity
+6.0064635
+branch node
+volatile acidity
+0.2502061
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+fixed acidity
+6.0064635
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+alcohol
+11.028949
+decision node
+bad quality
+branch node
+fixed acidity
+6.0064635
+decision node
+good quality
+decision node
+bad quality
+branch node
+citric acid
+0.39917764
+branch node
+sulphates
+0.5156121
+branch node
+total sulfur
+93.16381
+branch node
+sulphates
+0.38280606
+branch node
+fixed acidity
+7.8129272
+branch node
+chlorides
+0.04096483
+branch node
+volatile acidity
+0.33530915
+branch node
+volatile acidity
+0.16510305
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.07983553
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.42041218
+branch node
+volatile acidity
+0.33530915
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+branch node
+volatile acidity
+0.33530915
+branch node
+total sulfur
+35.054604
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+7.8129272
+branch node
+volatile acidity
+0.2502061
+branch node
+alcohol
+11.028949
+branch node
+total sulfur
+64.10921
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.04096483
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+1.1012365
+branch node
+volatile acidity
+0.84592736
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.08291208
+branch node
+volatile acidity
+0.59061825
+branch node
+volatile acidity
+0.42041218
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.16510305
+branch node
+sulphates
+0.38280606
+branch node
+fixed acidity
+7.8129272
+branch node
+chlorides
+0.04096483
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.054947246
+branch node
+chlorides
+0.04096483
+branch node
+fixed acidity
+7.8129272
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+7.8129272
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+122.218414
+branch node
+citric acid
+0.3193421
+branch node
+alcohol
+11.028949
+branch node
+chlorides
+0.054947246
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.04096483
+decision node
+bad quality
+decision node
+bad quality
+branch node
+alcohol
+11.028949
+branch node
+chlorides
+0.068929665
+decision node
+bad quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.2502061
+branch node
+fixed acidity
+7.8129272
+branch node
+sulphates
+0.38280606
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.04096483
+decision node
+good quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.59061825
+branch node
+volatile acidity
+0.5055152
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+151.27303
+branch node
+volatile acidity
+0.9310304
+branch node
+pH
+3.5247352
+branch node
+chlorides
+0.3765428
+branch node
+chlorides
+0.26468349
+branch node
+sulphates
+1.1796424
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.3193421
+branch node
+sulphates
+0.6484182
+branch node
+fixed acidity
+6.0064635
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.15967105
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+122.218414
+branch node
+alcohol
+11.028949
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+180.32764
+branch node
+volatile acidity
+0.16510305
+branch node
+chlorides
+0.04096483
+branch node
+sulphates
+0.6484182
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+citric acid
+0.3193421
+branch node
+fixed acidity
+7.8129272
+branch node
+volatile acidity
+0.33530915
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+6.0064635
+branch node
+volatile acidity
+0.2502061
+decision node
+good quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.2502061
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.6757213
+branch node
+chlorides
+0.054947246
+branch node
+fixed acidity
+6.0064635
+decision node
+bad quality
+branch node
+volatile acidity
+0.33530915
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.33530915
+branch node
+fixed acidity
+6.0064635
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+sulphates
+0.9140303
+branch node
+volatile acidity
+0.33530915
+branch node
+chlorides
+0.068929665
+branch node
+fixed acidity
+6.0064635
+branch node
+citric acid
+0.47901317
+branch node
+total sulfur
+122.218414
+branch node
+volatile acidity
+0.2502061
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.16510305
+decision node
+bad quality
+branch node
+pH
+3.5247352
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+151.27303
+branch node
+citric acid
+0.6386842
+branch node
+fixed acidity
+7.8129272
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+7.8129272
+decision node
+bad quality
+decision node
+bad quality
+branch node
+sulphates
+0.5156121
+branch node
+volatile acidity
+0.2502061
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.2502061
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.180789
+branch node
+fixed acidity
+6.0064635
+decision node
+bad quality
+branch node
+chlorides
+0.16680658
+branch node
+citric acid
+0.47901317
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+sulphates
+0.6484182
+branch node
+citric acid
+0.47901317
+branch node
+volatile acidity
+0.5055152
+branch node
+total sulfur
+209.38225
+branch node
+sulphates
+0.38280606
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+6.0064635
+decision node
+bad quality
+branch node
+citric acid
+0.71851975
+branch node
+citric acid
+0.6386842
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+7.8129272
+decision node
+bad quality
+branch node
+volatile acidity
+0.42041218
+branch node
+chlorides
+0.04096483
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+alcohol
+11.028949
+branch node
+color
+white
+decision node
+bad quality
+decision node
+good quality
+branch node
+fixed acidity
+6.0064635
+decision node
+good quality
+decision node
+bad quality
+branch node
+chlorides
+0.22273624
+branch node
+sulphates
+1.0468364
+branch node
+chlorides
+0.180789
+branch node
+pH
+3.5247352
+branch node
+citric acid
+1.0378618
+branch node
+citric acid
+0.95802635
+branch node
+citric acid
+0.7983553
+branch node
+residual sugar
+32.471767
+branch node
+total sulfur
+35.054604
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.2502061
+branch node
+residual sugar
+4.757188
+branch node
+color
+white
+decision node
+bad quality
+branch node
+citric acid
+0.5588487
+branch node
+citric acid
+0.47901317
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+151.27303
+branch node
+fixed acidity
+6.0064635
+decision node
+bad quality
+branch node
+residual sugar
+6.142917
+decision node
+good quality
+decision node
+bad quality
+branch node
+fixed acidity
+6.0064635
+decision node
+good quality
+decision node
+bad quality
+branch node
+residual sugar
+3.3714585
+branch node
+volatile acidity
+1.1012365
+branch node
+volatile acidity
+1.0161334
+branch node
+citric acid
+0.47901317
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.42041218
+branch node
+residual sugar
+4.757188
+decision node
+bad quality
+branch node
+citric acid
+0.3193421
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+122.218414
+branch node
+color
+white
+decision node
+bad quality
+decision node
+good quality
+branch node
+volatile acidity
+0.59061825
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.07983553
+decision node
+bad quality
+branch node
+color
+white
+decision node
+good quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+decision node
+good quality
+branch node
+volatile acidity
+0.6757213
+branch node
+citric acid
+0.23950657
+decision node
+bad quality
+branch node
+volatile acidity
+0.59061825
+branch node
+fixed acidity
+7.8129272
+branch node
+color
+white
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+good quality
+decision node
+bad quality
+branch node
+fixed acidity
+13.232317
+branch node
+citric acid
+0.47901317
+branch node
+fixed acidity
+11.425854
+branch node
+volatile acidity
+1.0161334
+branch node
+volatile acidity
+0.9310304
+branch node
+total sulfur
+180.32764
+branch node
+volatile acidity
+0.7608243
+branch node
+residual sugar
+14.457291
+branch node
+chlorides
+0.180789
+branch node
+chlorides
+0.124859326
+branch node
+residual sugar
+11.685833
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.096894495
+branch node
+chlorides
+0.08291208
+branch node
+volatile acidity
+0.33530915
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.08291208
+branch node
+chlorides
+0.054947246
+branch node
+color
+white
+decision node
+good quality
+decision node
+bad quality
+branch node
+citric acid
+0.5588487
+branch node
+alcohol
+11.028949
+branch node
+sulphates
+1.0468364
+branch node
+fixed acidity
+11.425854
+branch node
+chlorides
+0.068929665
+branch node
+volatile acidity
+0.2502061
+decision node
+bad quality
+branch node
+volatile acidity
+0.42041218
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.42041218
+branch node
+total sulfur
+35.054604
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+1.9857292
+decision node
+bad quality
+branch node
+sulphates
+0.6484182
+decision node
+bad quality
+branch node
+total sulfur
+35.054604
+decision node
+bad quality
+decision node
+good quality
+branch node
+total sulfur
+35.054604
+branch node
+volatile acidity
+0.33530915
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+11.425854
+branch node
+residual sugar
+3.3714585
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+residual sugar
+1.9857292
+decision node
+bad quality
+branch node
+chlorides
+0.068929665
+decision node
+bad quality
+branch node
+sulphates
+0.6484182
+decision node
+bad quality
+branch node
+volatile acidity
+0.5055152
+branch node
+fixed acidity
+11.425854
+branch node
+volatile acidity
+0.33530915
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+11.425854
+branch node
+citric acid
+0.5588487
+branch node
+total sulfur
+35.054604
+branch node
+volatile acidity
+0.2502061
+decision node
+bad quality
+branch node
+alcohol
+11.028949
+decision node
+bad quality
+branch node
+volatile acidity
+0.42041218
+decision node
+good quality
+decision node
+bad quality
+branch node
+residual sugar
+1.9857292
+branch node
+volatile acidity
+0.33530915
+branch node
+chlorides
+0.096894495
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.5055152
+branch node
+volatile acidity
+0.42041218
+branch node
+total sulfur
+93.16381
+branch node
+chlorides
+0.13884175
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.71851975
+branch node
+citric acid
+0.6386842
+branch node
+total sulfur
+35.054604
+branch node
+volatile acidity
+0.33530915
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.33530915
+decision node
+bad quality
+branch node
+total sulfur
+35.054604
+branch node
+volatile acidity
+0.42041218
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+sulphates
+0.78122425
+branch node
+citric acid
+0.5588487
+branch node
+volatile acidity
+0.5055152
+branch node
+chlorides
+0.11087691
+branch node
+sulphates
+0.6484182
+decision node
+bad quality
+branch node
+chlorides
+0.096894495
+branch node
+volatile acidity
+0.33530915
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+35.054604
+branch node
+volatile acidity
+0.33530915
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.096894495
+decision node
+bad quality
+branch node
+volatile acidity
+0.2502061
+decision node
+bad quality
+branch node
+citric acid
+0.6386842
+decision node
+bad quality
+decision node
+good quality
+branch node
+color
+white
+branch node
+chlorides
+0.08291208
+branch node
+sulphates
+0.78122425
+decision node
+bad quality
+branch node
+volatile acidity
+0.2502061
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+
+branch node
+residual sugar
+3.432706
+branch node
+total sulfur
+123.23447
+branch node
+free sulfur
+47.17236
+branch node
+citric acid
+0.5522392
+branch node
+sulphates
+1.3058461
+branch node
+fixed acidity
+10.989488
+branch node
+sulphates
+1.0418845
+branch node
+chlorides
+0.23506638
+branch node
+volatile acidity
+1.3601502
+branch node
+volatile acidity
+1.1041201
+branch node
+chlorides
+0.22112474
+branch node
+chlorides
+0.2071831
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.67740333
+branch node
+citric acid
+0.39445654
+branch node
+volatile acidity
+0.59205997
+branch node
+residual sugar
+2.066353
+branch node
+fixed acidity
+7.394744
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.37448284
+branch node
+free sulfur
+16.390787
+branch node
+volatile acidity
+0.4213733
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.59205997
+branch node
+citric acid
+0.47334784
+branch node
+residual sugar
+2.066353
+branch node
+free sulfur
+24.086182
+branch node
+volatile acidity
+0.33602998
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+sulphates
+0.777923
+decision node
+bad quality
+branch node
+fixed acidity
+12.7868595
+decision node
+bad quality
+decision node
+good quality
+branch node
+free sulfur
+24.086182
+branch node
+alcohol
+10.617658
+branch node
+volatile acidity
+0.25068665
+decision node
+bad quality
+branch node
+chlorides
+0.0677666
+decision node
+bad quality
+decision node
+bad quality
+branch node
+free sulfur
+8.695394
+branch node
+volatile acidity
+0.33602998
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.4213733
+branch node
+chlorides
+0.08170825
+branch node
+volatile acidity
+0.33602998
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+free sulfur
+8.695394
+branch node
+alcohol
+10.617658
+decision node
+bad quality
+branch node
+volatile acidity
+0.67740333
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+fixed acidity
+9.192116
+decision node
+bad quality
+branch node
+fixed acidity
+10.989488
+decision node
+bad quality
+decision node
+good quality
+branch node
+fixed acidity
+10.989488
+branch node
+citric acid
+0.71002173
+branch node
+sulphates
+0.90990376
+branch node
+volatile acidity
+0.5067166
+branch node
+chlorides
+0.0398833
+decision node
+bad quality
+branch node
+chlorides
+0.16535816
+branch node
+volatile acidity
+0.33602998
+branch node
+total sulfur
+93.92585
+decision node
+bad quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+93.92585
+branch node
+sulphates
+0.777923
+branch node
+fixed acidity
+7.394744
+decision node
+bad quality
+branch node
+citric acid
+0.63113046
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+9.192116
+decision node
+bad quality
+decision node
+good quality
+branch node
+color
+white
+decision node
+bad quality
+branch node
+alcohol
+10.617658
+decision node
+bad quality
+branch node
+fixed acidity
+7.394744
+decision node
+bad quality
+decision node
+good quality
+branch node
+chlorides
+0.0677666
+branch node
+volatile acidity
+0.5067166
+branch node
+citric acid
+0.71002173
+branch node
+volatile acidity
+0.33602998
+branch node
+residual sugar
+2.066353
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+free sulfur
+16.390787
+branch node
+chlorides
+0.08170825
+branch node
+fixed acidity
+12.7868595
+branch node
+residual sugar
+2.066353
+decision node
+bad quality
+branch node
+free sulfur
+8.695394
+branch node
+volatile acidity
+0.33602998
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.4213733
+branch node
+citric acid
+0.63113046
+decision node
+bad quality
+branch node
+free sulfur
+8.695394
+decision node
+bad quality
+branch node
+fixed acidity
+12.7868595
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.4213733
+branch node
+citric acid
+0.63113046
+decision node
+bad quality
+branch node
+sulphates
+0.777923
+branch node
+fixed acidity
+12.7868595
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.31556523
+branch node
+residual sugar
+2.066353
+branch node
+fixed acidity
+7.394744
+branch node
+volatile acidity
+0.16534333
+decision node
+bad quality
+branch node
+volatile acidity
+0.25068665
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.59205997
+branch node
+color
+white
+decision node
+bad quality
+branch node
+sulphates
+0.5139615
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.39445654
+branch node
+volatile acidity
+0.16534333
+branch node
+chlorides
+0.025941651
+decision node
+bad quality
+decision node
+good quality
+branch node
+color
+white
+decision node
+bad quality
+branch node
+sulphates
+0.6459422
+branch node
+free sulfur
+62.563145
+branch node
+fixed acidity
+7.394744
+decision node
+bad quality
+branch node
+chlorides
+0.0398833
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+5.597372
+decision node
+good quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+good quality
+decision node
+bad quality
+branch node
+free sulfur
+70.25854
+branch node
+citric acid
+0.31556523
+branch node
+free sulfur
+39.476967
+branch node
+volatile acidity
+0.25068665
+branch node
+fixed acidity
+7.394744
+branch node
+residual sugar
+2.066353
+branch node
+citric acid
+0.23667392
+branch node
+chlorides
+0.0398833
+decision node
+bad quality
+branch node
+free sulfur
+16.390787
+decision node
+bad quality
+branch node
+chlorides
+0.05382495
+decision node
+good quality
+decision node
+bad quality
+branch node
+alcohol
+10.617658
+branch node
+sulphates
+0.5139615
+branch node
+free sulfur
+31.781574
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.0398833
+decision node
+bad quality
+decision node
+bad quality
+branch node
+free sulfur
+16.390787
+decision node
+bad quality
+branch node
+chlorides
+0.0398833
+decision node
+bad quality
+decision node
+bad quality
+branch node
+sulphates
+0.38198075
+decision node
+bad quality
+branch node
+free sulfur
+24.086182
+decision node
+bad quality
+branch node
+chlorides
+0.0398833
+branch node
+free sulfur
+31.781574
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+9.192116
+branch node
+chlorides
+0.0398833
+branch node
+residual sugar
+2.066353
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+sulphates
+0.5139615
+branch node
+citric acid
+0.15778261
+branch node
+fixed acidity
+7.394744
+branch node
+chlorides
+0.0677666
+branch node
+volatile acidity
+0.33602998
+decision node
+bad quality
+branch node
+volatile acidity
+0.5067166
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+2.066353
+branch node
+fixed acidity
+9.192116
+branch node
+volatile acidity
+0.5067166
+branch node
+volatile acidity
+0.4213733
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+free sulfur
+24.086182
+branch node
+volatile acidity
+0.33602998
+decision node
+bad quality
+branch node
+free sulfur
+16.390787
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.025941651
+decision node
+bad quality
+branch node
+volatile acidity
+0.33602998
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+2.066353
+branch node
+free sulfur
+16.390787
+branch node
+fixed acidity
+5.597372
+decision node
+bad quality
+branch node
+volatile acidity
+0.33602998
+branch node
+chlorides
+0.025941651
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.07889131
+decision node
+bad quality
+branch node
+citric acid
+0.15778261
+decision node
+bad quality
+branch node
+chlorides
+0.095649906
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.07889131
+decision node
+bad quality
+branch node
+chlorides
+0.095649906
+branch node
+volatile acidity
+0.7627467
+branch node
+free sulfur
+8.695394
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+free sulfur
+47.17236
+branch node
+volatile acidity
+0.33602998
+branch node
+sulphates
+0.6459422
+branch node
+chlorides
+0.0677666
+branch node
+volatile acidity
+0.25068665
+branch node
+chlorides
+0.05382495
+branch node
+sulphates
+0.38198075
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+7.394744
+branch node
+citric acid
+0.23667392
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+alcohol
+10.617658
+branch node
+chlorides
+0.0398833
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+branch node
+volatile acidity
+0.4213733
+branch node
+residual sugar
+2.066353
+decision node
+bad quality
+branch node
+citric acid
+0.23667392
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+free sulfur
+54.867752
+branch node
+sulphates
+0.5139615
+branch node
+residual sugar
+2.066353
+branch node
+volatile acidity
+0.16534333
+branch node
+chlorides
+0.0398833
+decision node
+good quality
+decision node
+bad quality
+branch node
+fixed acidity
+7.394744
+branch node
+total sulfur
+181.85172
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+7.394744
+branch node
+volatile acidity
+0.33602998
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.33602998
+branch node
+fixed acidity
+7.394744
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+2.066353
+branch node
+fixed acidity
+5.597372
+branch node
+volatile acidity
+0.25068665
+decision node
+good quality
+decision node
+bad quality
+branch node
+total sulfur
+152.54309
+branch node
+citric acid
+0.07889131
+decision node
+bad quality
+branch node
+sulphates
+0.38198075
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+7.394744
+branch node
+volatile acidity
+0.33602998
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+181.85172
+branch node
+fixed acidity
+7.394744
+branch node
+volatile acidity
+0.25068665
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+sulphates
+0.5139615
+branch node
+fixed acidity
+9.192116
+branch node
+volatile acidity
+0.4213733
+branch node
+total sulfur
+152.54309
+branch node
+chlorides
+0.08170825
+branch node
+free sulfur
+24.086182
+branch node
+chlorides
+0.05382495
+branch node
+free sulfur
+16.390787
+decision node
+bad quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+7.394744
+branch node
+free sulfur
+47.17236
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.47334784
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+2.066353
+branch node
+citric acid
+0.39445654
+decision node
+bad quality
+branch node
+fixed acidity
+7.394744
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+free sulfur
+39.476967
+branch node
+volatile acidity
+0.16534333
+branch node
+fixed acidity
+7.394744
+decision node
+bad quality
+decision node
+good quality
+branch node
+volatile acidity
+0.33602998
+branch node
+citric acid
+0.47334784
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+2.066353
+branch node
+chlorides
+0.0398833
+branch node
+total sulfur
+181.85172
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+7.394744
+decision node
+bad quality
+decision node
+bad quality
+branch node
+sulphates
+0.38198075
+branch node
+chlorides
+0.0398833
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.05382495
+branch node
+free sulfur
+16.390787
+decision node
+bad quality
+branch node
+volatile acidity
+0.5067166
+branch node
+free sulfur
+39.476967
+branch node
+fixed acidity
+7.394744
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.16534333
+decision node
+bad quality
+branch node
+volatile acidity
+0.9334334
+branch node
+volatile acidity
+0.4213733
+branch node
+citric acid
+0.39445654
+decision node
+bad quality
+branch node
+volatile acidity
+0.33602998
+branch node
+volatile acidity
+0.25068665
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.5522392
+branch node
+sulphates
+0.777923
+branch node
+chlorides
+0.0398833
+branch node
+citric acid
+0.47334784
+branch node
+total sulfur
+152.54309
+branch node
+citric acid
+0.39445654
+branch node
+free sulfur
+47.17236
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.33602998
+branch node
+residual sugar
+2.066353
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+181.85172
+branch node
+fixed acidity
+9.192116
+branch node
+volatile acidity
+0.59205997
+branch node
+volatile acidity
+0.5067166
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+7.394744
+branch node
+volatile acidity
+0.25068665
+branch node
+volatile acidity
+0.16534333
+decision node
+bad quality
+decision node
+bad quality
+branch node
+free sulfur
+31.781574
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+chlorides
+0.0398833
+decision node
+bad quality
+branch node
+total sulfur
+181.85172
+branch node
+citric acid
+0.47334784
+branch node
+color
+white
+decision node
+bad quality
+branch node
+fixed acidity
+7.394744
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+branch node
+fixed acidity
+7.394744
+branch node
+volatile acidity
+0.25068665
+branch node
+citric acid
+0.63113046
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+9.192116
+branch node
+volatile acidity
+0.16534333
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+fixed acidity
+9.192116
+branch node
+fixed acidity
+7.394744
+branch node
+volatile acidity
+0.5067166
+branch node
+residual sugar
+2.066353
+branch node
+volatile acidity
+0.16534333
+decision node
+bad quality
+branch node
+chlorides
+0.0398833
+decision node
+bad quality
+branch node
+alcohol
+10.617658
+decision node
+bad quality
+branch node
+volatile acidity
+0.25068665
+branch node
+citric acid
+0.31556523
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+7.394744
+branch node
+total sulfur
+35.308617
+branch node
+color
+white
+branch node
+citric acid
+0.07889131
+decision node
+bad quality
+branch node
+volatile acidity
+0.4213733
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+free sulfur
+24.086182
+branch node
+sulphates
+0.6459422
+branch node
+chlorides
+0.025941651
+branch node
+volatile acidity
+0.33602998
+branch node
+residual sugar
+4.799059
+decision node
+bad quality
+branch node
+residual sugar
+6.165412
+decision node
+bad quality
+branch node
+volatile acidity
+0.25068665
+decision node
+bad quality
+branch node
+residual sugar
+7.531765
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.16534333
+branch node
+residual sugar
+6.165412
+branch node
+chlorides
+0.0398833
+branch node
+sulphates
+0.5139615
+branch node
+residual sugar
+4.799059
+branch node
+free sulfur
+16.390787
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+sulphates
+0.38198075
+branch node
+fixed acidity
+5.597372
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+123.23447
+branch node
+fixed acidity
+5.597372
+branch node
+volatile acidity
+0.25068665
+branch node
+citric acid
+0.23667392
+branch node
+alcohol
+10.617658
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+citric acid
+0.07889131
+decision node
+bad quality
+branch node
+volatile acidity
+0.33602998
+decision node
+good quality
+decision node
+bad quality
+branch node
+citric acid
+0.71002173
+branch node
+free sulfur
+8.695394
+branch node
+color
+white
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.33602998
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+8.898118
+branch node
+chlorides
+0.05382495
+branch node
+sulphates
+0.38198075
+branch node
+volatile acidity
+0.4213733
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+7.531765
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+4.799059
+branch node
+volatile acidity
+0.33602998
+decision node
+good quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+5.597372
+decision node
+bad quality
+branch node
+citric acid
+0.15778261
+decision node
+bad quality
+branch node
+citric acid
+0.47334784
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.33602998
+branch node
+citric acid
+0.31556523
+branch node
+volatile acidity
+0.25068665
+decision node
+bad quality
+branch node
+chlorides
+0.0398833
+branch node
+alcohol
+10.617658
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+branch node
+citric acid
+0.47334784
+branch node
+volatile acidity
+0.25068665
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.7627467
+branch node
+volatile acidity
+0.67740333
+branch node
+residual sugar
+6.165412
+branch node
+free sulfur
+8.695394
+decision node
+bad quality
+branch node
+volatile acidity
+0.59205997
+branch node
+volatile acidity
+0.5067166
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+sulphates
+0.777923
+branch node
+free sulfur
+70.25854
+branch node
+sulphates
+0.6459422
+branch node
+volatile acidity
+0.33602998
+branch node
+total sulfur
+93.92585
+branch node
+volatile acidity
+0.25068665
+branch node
+citric acid
+0.31556523
+decision node
+bad quality
+branch node
+residual sugar
+4.799059
+decision node
+bad quality
+decision node
+bad quality
+branch node
+sulphates
+0.38198075
+decision node
+bad quality
+branch node
+alcohol
+10.617658
+decision node
+bad quality
+decision node
+good quality
+branch node
+volatile acidity
+0.25068665
+branch node
+sulphates
+0.5139615
+branch node
+residual sugar
+11.630824
+decision node
+bad quality
+decision node
+bad quality
+branch node
+free sulfur
+31.781574
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.788913
+branch node
+citric acid
+0.5522392
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+5.597372
+branch node
+citric acid
+0.15778261
+branch node
+volatile acidity
+0.59205997
+branch node
+chlorides
+0.0398833
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.31556523
+branch node
+residual sugar
+4.799059
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.67740333
+branch node
+citric acid
+0.07889131
+decision node
+bad quality
+branch node
+chlorides
+0.1792998
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.25068665
+branch node
+residual sugar
+6.165412
+branch node
+free sulfur
+31.781574
+decision node
+bad quality
+branch node
+residual sugar
+4.799059
+branch node
+chlorides
+0.0398833
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.23667392
+decision node
+bad quality
+branch node
+citric acid
+0.31556523
+decision node
+bad quality
+branch node
+free sulfur
+31.781574
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+6.165412
+branch node
+fixed acidity
+5.597372
+decision node
+bad quality
+branch node
+citric acid
+0.47334784
+branch node
+citric acid
+0.31556523
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.4213733
+branch node
+citric acid
+0.39445654
+branch node
+residual sugar
+12.997177
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.39445654
+branch node
+volatile acidity
+0.5067166
+branch node
+volatile acidity
+0.4213733
+branch node
+citric acid
+0.15778261
+decision node
+bad quality
+branch node
+residual sugar
+15.729883
+branch node
+residual sugar
+14.36353
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.63113046
+branch node
+volatile acidity
+0.33602998
+branch node
+chlorides
+0.0398833
+decision node
+bad quality
+branch node
+volatile acidity
+0.25068665
+branch node
+residual sugar
+4.799059
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.31556523
+branch node
+residual sugar
+11.630824
+branch node
+chlorides
+0.0398833
+branch node
+volatile acidity
+0.25068665
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+6.165412
+branch node
+volatile acidity
+0.16534333
+decision node
+bad quality
+branch node
+volatile acidity
+0.25068665
+decision node
+bad quality
+decision node
+good quality
+branch node
+volatile acidity
+0.25068665
+branch node
+residual sugar
+7.531765
+decision node
+bad quality
+branch node
+free sulfur
+47.17236
+decision node
+bad quality
+branch node
+free sulfur
+54.867752
+decision node
+bad quality
+branch node
+volatile acidity
+0.16534333
+decision node
+bad quality
+decision node
+good quality
+branch node
+citric acid
+0.39445654
+decision node
+bad quality
+branch node
+volatile acidity
+0.33602998
+decision node
+good quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.4213733
+branch node
+chlorides
+0.05382495
+branch node
+total sulfur
+211.16034
+branch node
+free sulfur
+24.086182
+branch node
+residual sugar
+11.630824
+branch node
+citric acid
+0.47334784
+branch node
+sulphates
+0.38198075
+branch node
+volatile acidity
+0.16534333
+decision node
+bad quality
+branch node
+volatile acidity
+0.33602998
+branch node
+residual sugar
+10.264471
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.33602998
+branch node
+volatile acidity
+0.16534333
+decision node
+bad quality
+branch node
+free sulfur
+8.695394
+decision node
+bad quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+branch node
+residual sugar
+7.531765
+decision node
+bad quality
+decision node
+bad quality
+branch node
+fixed acidity
+9.192116
+branch node
+citric acid
+0.5522392
+branch node
+residual sugar
+7.531765
+branch node
+sulphates
+0.38198075
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+123.23447
+branch node
+volatile acidity
+0.25068665
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+total sulfur
+93.92585
+branch node
+volatile acidity
+0.25068665
+decision node
+bad quality
+branch node
+citric acid
+0.31556523
+decision node
+good quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.25068665
+branch node
+residual sugar
+6.165412
+branch node
+residual sugar
+4.799059
+branch node
+sulphates
+0.38198075
+decision node
+bad quality
+branch node
+volatile acidity
+0.16534333
+decision node
+good quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.16534333
+decision node
+bad quality
+branch node
+citric acid
+0.39445654
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+15.729883
+branch node
+residual sugar
+10.264471
+branch node
+total sulfur
+123.23447
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.39445654
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+17.096237
+decision node
+bad quality
+branch node
+total sulfur
+181.85172
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+19.828941
+branch node
+residual sugar
+18.46259
+branch node
+alcohol
+13.235315
+branch node
+citric acid
+0.71002173
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.47334784
+branch node
+free sulfur
+39.476967
+decision node
+bad quality
+branch node
+total sulfur
+240.46896
+branch node
+citric acid
+0.15778261
+decision node
+bad quality
+branch node
+volatile acidity
+0.25068665
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+good quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.33602998
+branch node
+free sulfur
+47.17236
+branch node
+citric acid
+0.39445654
+branch node
+residual sugar
+7.531765
+branch node
+volatile acidity
+0.25068665
+branch node
+volatile acidity
+0.16534333
+decision node
+bad quality
+branch node
+citric acid
+0.31556523
+decision node
+bad quality
+branch node
+total sulfur
+123.23447
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+branch node
+citric acid
+0.23667392
+decision node
+bad quality
+branch node
+residual sugar
+10.264471
+decision node
+bad quality
+branch node
+sulphates
+0.38198075
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+15.729883
+branch node
+residual sugar
+10.264471
+branch node
+free sulfur
+8.695394
+branch node
+residual sugar
+6.165412
+decision node
+good quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+18.46259
+branch node
+residual sugar
+14.36353
+branch node
+volatile acidity
+0.25068665
+branch node
+free sulfur
+62.563145
+branch node
+citric acid
+0.31556523
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+citric acid
+0.39445654
+branch node
+residual sugar
+4.799059
+decision node
+bad quality
+branch node
+color
+white
+decision node
+good quality
+decision node
+bad quality
+branch node
+chlorides
+0.08170825
+branch node
+residual sugar
+14.36353
+branch node
+chlorides
+0.0677666
+branch node
+color
+white
+decision node
+good quality
+decision node
+bad quality
+branch node
+residual sugar
+4.799059
+branch node
+fixed acidity
+10.989488
+decision node
+good quality
+decision node
+bad quality
+branch node
+fixed acidity
+9.192116
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+chlorides
+0.095649906
+branch node
+color
+white
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+4.799059
+branch node
+free sulfur
+24.086182
+branch node
+volatile acidity
+0.9334334
+branch node
+fixed acidity
+10.989488
+branch node
+free sulfur
+8.695394
+branch node
+volatile acidity
+0.84809005
+branch node
+volatile acidity
+0.59205997
+branch node
+sulphates
+0.6459422
+branch node
+fixed acidity
+9.192116
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.7627467
+branch node
+volatile acidity
+0.5067166
+branch node
+color
+white
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.5067166
+decision node
+bad quality
+branch node
+chlorides
+0.12353321
+branch node
+fixed acidity
+12.7868595
+branch node
+volatile acidity
+0.59205997
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+decision node
+good quality
+branch node
+fixed acidity
+9.192116
+branch node
+free sulfur
+47.17236
+branch node
+residual sugar
+7.531765
+branch node
+volatile acidity
+0.67740333
+branch node
+citric acid
+0.23667392
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+branch node
+citric acid
+0.39445654
+decision node
+bad quality
+branch node
+volatile acidity
+0.5067166
+decision node
+good quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+residual sugar
+11.630824
+branch node
+citric acid
+0.39445654
+branch node
+citric acid
+0.31556523
+branch node
+free sulfur
+8.695394
+decision node
+bad quality
+branch node
+citric acid
+0.15778261
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+color
+white
+decision node
+bad quality
+branch node
+volatile acidity
+0.5067166
+decision node
+good quality
+decision node
+bad quality
+branch node
+sulphates
+0.38198075
+branch node
+volatile acidity
+0.5067166
+decision node
+bad quality
+decision node
+good quality
+branch node
+volatile acidity
+0.67740333
+branch node
+volatile acidity
+0.59205997
+branch node
+chlorides
+0.1792998
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.5067166
+branch node
+citric acid
+0.31556523
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
+branch node
+chlorides
+0.08170825
+branch node
+color
+white
+decision node
+good quality
+decision node
+bad quality
+branch node
+volatile acidity
+0.5067166
+decision node
+bad quality
+branch node
+citric acid
+0.23667392
+decision node
+bad quality
+branch node
+citric acid
+0.71002173
+branch node
+fixed acidity
+10.989488
+decision node
+bad quality
+decision node
+good quality
+decision node
+bad quality
